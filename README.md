@@ -20,4 +20,4 @@ A responsive and visually appealing clone of the Netflix homepage using HTML, CS
 - CSS3
 - JavaScript 
 
-## 📁 Project Structure
+
