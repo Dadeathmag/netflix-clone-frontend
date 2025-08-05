@@ -4,8 +4,8 @@ A responsive and visually appealing clone of the Netflix homepage using HTML, CS
 
 ## 🌐 Demo
 
+  <img width="1877" height="947" alt="Screenshot 2025-08-05 070805" src="https://github.com/user-attachments/assets/d42c4d16-6020-4f8d-a059-151cdc1a0a76" />
 
-  
 ## 🚀 Features
 
 - 🎨 Pixel-perfect UI similar to Netflix homepage
